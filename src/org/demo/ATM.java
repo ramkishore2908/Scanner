@@ -8,7 +8,7 @@ public class ATM {
 		
 		Scanner s = new Scanner(System.in);
 		
-		System.out.println("Enter Your Name");
+		System.out.println("Enter Your Full Name");
 		String name = s.nextLine();
 		System.out.println("Your Name is "+name);
 		
