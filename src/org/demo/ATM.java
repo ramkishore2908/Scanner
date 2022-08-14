@@ -14,7 +14,7 @@ public class ATM {
 		
 		System.out.println("Enter Your Pin");
 		int pin = s.nextInt();
-		System.out.println("Your Pin is "+pin);
+		System.out.println("Your Pin number is "+pin);
 		
 		System.out.println("Enter Your Phone number");
 		long ph = s.nextLong();
